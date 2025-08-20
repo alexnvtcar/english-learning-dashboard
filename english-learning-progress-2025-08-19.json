@@ -1,0 +1,743 @@
+{
+  "progress": {
+    "level": 9,
+    "totalXP": 6955,
+    "currentLevelXP": 475,
+    "streak": 0,
+    "weeklyXP": 258,
+    "weeklyStars": 0,
+    "starBank": 1,
+    "weekStartKey": "2025-08-18"
+  },
+  "tasks": [
+    {
+      "id": 1754686154101,
+      "name": "апв",
+      "description": "",
+      "xpReward": 50,
+      "duration": 15,
+      "icon": "fas fa-book",
+      "category": "custom"
+    },
+    {
+      "id": 1754690309707,
+      "name": "Новое",
+      "description": "",
+      "xpReward": 50,
+      "duration": 15,
+      "icon": "fas fa-book",
+      "category": "custom"
+    },
+    {
+      "id": 1754690319644,
+      "name": "Ура",
+      "description": "",
+      "xpReward": 36,
+      "duration": 15,
+      "icon": "fas fa-book",
+      "category": "custom"
+    },
+    {
+      "id": 1754690894000,
+      "name": "Сложный выбор",
+      "description": "",
+      "xpReward": 222,
+      "duration": 34,
+      "icon": "fas fa-book",
+      "category": "custom"
+    },
+    {
+      "id": 1754851388264,
+      "name": "Важное",
+      "description": "Нужная карочка",
+      "xpReward": 123,
+      "duration": 36,
+      "icon": "fas fa-book",
+      "category": "custom"
+    },
+    {
+      "id": 1755350552778,
+      "name": "ЫЫЫ",
+      "description": "",
+      "xpReward": 50,
+      "duration": 15,
+      "icon": "fas fa-book",
+      "category": "custom"
+    },
+    {
+      "id": 1755351426985,
+      "name": "Новыая иконка",
+      "description": "Тест",
+      "xpReward": 120,
+      "duration": 45,
+      "icon": "fas fa-chalkboard-teacher",
+      "category": "custom"
+    },
+    {
+      "id": 1755351446477,
+      "name": "Медаль",
+      "description": "",
+      "xpReward": 50,
+      "duration": 15,
+      "icon": "fas fa-medal",
+      "category": "custom"
+    },
+    {
+      "id": 1755354081563,
+      "name": "fgkuy",
+      "description": "",
+      "xpReward": 50,
+      "duration": 15,
+      "icon": "fas fa-graduation-cap",
+      "category": "custom"
+    }
+  ],
+  "rewards": [
+    {
+      "id": 1755375464237,
+      "description": "Макдональдс",
+      "starsUsed": 3,
+      "redeemedAt": "2025-08-16T20:17:44.237Z"
+    }
+  ],
+  "activityData": {
+    "2025-08-08": [
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T20:47:52.778Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T20:48:25.734Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:48:27.075Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:48:28.541Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:48:30.033Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T20:48:31.080Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:48:32.553Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:48:33.784Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:48:38.160Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T20:48:39.960Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:48:41.040Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:48:42.053Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:48:43.854Z"
+      },
+      {
+        "taskId": 1754686154101,
+        "taskName": "апв",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T20:49:17.302Z"
+      },
+      {
+        "taskId": 1754686154101,
+        "taskName": "апв",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T20:49:18.339Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:49:18.987Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T20:49:19.759Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:49:21.365Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:49:50.620Z"
+      },
+      {
+        "taskId": 1754686154101,
+        "taskName": "апв",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T20:52:43.854Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:52:44.264Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:52:44.882Z"
+      },
+      {
+        "taskId": 1754686154101,
+        "taskName": "апв",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T20:52:45.300Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:52:45.804Z"
+      },
+      {
+        "taskId": 1754686154101,
+        "taskName": "апв",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T20:53:01.235Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:53:01.514Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:53:01.768Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:53:01.952Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:53:02.141Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:53:02.480Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:53:02.819Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:53:02.997Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:53:03.175Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:53:03.359Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:53:03.547Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:53:03.719Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:53:03.891Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:53:04.108Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:57:43.082Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:57:44.051Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T20:58:19.035Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:58:19.470Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:58:19.836Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T20:58:30.198Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:58:30.988Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T20:58:32.921Z"
+      }
+    ],
+    "2025-08-07": [
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-07T20:47:52.778Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-07T20:47:52.778Z"
+      }
+    ],
+    "2025-08-09": [
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T21:05:01.300Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T21:05:03.111Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T21:05:04.139Z"
+      },
+      {
+        "taskId": 1754686154101,
+        "taskName": "апв",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T21:05:04.956Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T21:05:06.373Z"
+      },
+      {
+        "taskId": 1754686154101,
+        "taskName": "апв",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T21:05:08.290Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T21:05:08.946Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T21:05:09.407Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T21:05:10.475Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T21:05:10.989Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T21:05:13.119Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T21:05:13.969Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T21:05:16.959Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T21:07:46.761Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T21:07:47.735Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-08T21:07:50.108Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T21:19:21.232Z"
+      },
+      {
+        "taskId": 1754690319644,
+        "taskName": "Ура",
+        "xpEarned": 36,
+        "completedAt": "2025-08-08T21:58:42.537Z"
+      },
+      {
+        "taskId": 1754686154101,
+        "taskName": "апв",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T21:58:44.205Z"
+      },
+      {
+        "taskId": 1754690309707,
+        "taskName": "Новое",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T21:58:44.804Z"
+      },
+      {
+        "taskId": 1754690319644,
+        "taskName": "Ура",
+        "xpEarned": 36,
+        "completedAt": "2025-08-08T21:58:45.437Z"
+      },
+      {
+        "taskId": 1754690309707,
+        "taskName": "Новое",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T21:58:45.917Z"
+      },
+      {
+        "taskId": 1754686154101,
+        "taskName": "апв",
+        "xpEarned": 50,
+        "completedAt": "2025-08-08T21:58:48.738Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-08T21:58:49.216Z"
+      },
+      {
+        "taskId": 1754690894000,
+        "taskName": "Сложный выбор",
+        "xpEarned": 222,
+        "completedAt": "2025-08-08T22:08:16.761Z"
+      }
+    ],
+    "2025-08-10": [
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-10T16:15:06.093Z"
+      },
+      {
+        "taskId": 1754686154101,
+        "taskName": "апв",
+        "xpEarned": 50,
+        "completedAt": "2025-08-10T16:15:07.115Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-10T16:15:07.862Z"
+      },
+      {
+        "taskId": 1754690319644,
+        "taskName": "Ура",
+        "xpEarned": 36,
+        "completedAt": "2025-08-10T16:15:09.590Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-10T16:15:10.944Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-10T18:40:45.143Z"
+      },
+      {
+        "taskId": 1754690309707,
+        "taskName": "Новое",
+        "xpEarned": 50,
+        "completedAt": "2025-08-10T18:40:50.296Z"
+      },
+      {
+        "taskId": 1754851388264,
+        "taskName": "Важное",
+        "xpEarned": 123,
+        "completedAt": "2025-08-10T18:43:11.478Z"
+      }
+    ],
+    "2025-08-11": [
+      {
+        "taskId": 1754690894000,
+        "taskName": "Сложный выбор",
+        "xpEarned": 222,
+        "completedAt": "2025-08-11T04:40:02.188Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-11T04:46:17.940Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-11T04:46:19.972Z"
+      }
+    ],
+    "2025-08-12": [
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-12T05:30:43.358Z"
+      },
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-12T05:30:44.738Z"
+      }
+    ],
+    "2025-08-13": [
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-13T17:30:41.947Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-13T17:30:42.859Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-13T17:30:43.228Z"
+      }
+    ],
+    "2025-08-14": [
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-14T08:20:50.360Z"
+      },
+      {
+        "taskId": 2,
+        "taskName": "Грамматические упражнения",
+        "xpEarned": 75,
+        "completedAt": "2025-08-14T11:17:08.237Z"
+      }
+    ],
+    "2025-08-16": [
+      {
+        "taskId": 1,
+        "taskName": "Изучение новых слов",
+        "xpEarned": 50,
+        "completedAt": "2025-08-16T13:22:05.765Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-16T13:22:06.136Z"
+      },
+      {
+        "taskId": 1754686154101,
+        "taskName": "апв",
+        "xpEarned": 50,
+        "completedAt": "2025-08-16T13:22:06.527Z"
+      },
+      {
+        "taskId": 1754690309707,
+        "taskName": "Новое",
+        "xpEarned": 50,
+        "completedAt": "2025-08-16T13:22:08.329Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-16T13:22:10.033Z"
+      },
+      {
+        "taskId": 1755350552778,
+        "taskName": "ЫЫЫ",
+        "xpEarned": 50,
+        "completedAt": "2025-08-16T13:22:35.544Z"
+      },
+      {
+        "taskId": 3,
+        "taskName": "Аудирование",
+        "xpEarned": 60,
+        "completedAt": "2025-08-16T13:37:10.728Z"
+      },
+      {
+        "taskId": 1755351446477,
+        "taskName": "Медаль",
+        "xpEarned": 50,
+        "completedAt": "2025-08-16T20:17:29.203Z"
+      },
+      {
+        "taskId": 1754690894000,
+        "taskName": "Сложный выбор",
+        "xpEarned": 222,
+        "completedAt": "2025-08-16T20:17:31.388Z"
+      }
+    ],
+    "2025-08-19": [
+      {
+        "taskId": 1754690894000,
+        "taskName": "Сложный выбор",
+        "xpEarned": 222,
+        "completedAt": "2025-08-19T18:30:36.476Z"
+      },
+      {
+        "taskId": 1754690319644,
+        "taskName": "Ура",
+        "xpEarned": 36,
+        "completedAt": "2025-08-19T18:30:57.434Z"
+      }
+    ]
+  },
+  "rewardPlan": {
+    "description": "Поход в театр"
+  },
+  "resetDate": "2025-08-08T21:18:45.938Z",
+  "exportDate": "2025-08-19T18:31:04.549Z",
+  "version": "1.0"
+}

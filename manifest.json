@@ -1,0 +1,33 @@
+{
+  "name": "Английский — Дашборд",
+  "short_name": "Английский",
+  "start_url": "./english-learning-dashboard.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#1e40af",
+  "background_color": "#f8fafc",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "share_target": {
+    "action": "/share-target",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "files": [
+        {
+          "name": "files",
+          "accept": ["application/json", ".json"]
+        }
+      ]
+    }
+  }
+}
+
